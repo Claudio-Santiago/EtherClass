@@ -3,6 +3,17 @@ SPDX-License-Identifier: CC-BY-4.0
 (c) Desenvolvido por Jeff Prestes
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 */
+
+/*
+* "Commitar" fonte do contrato de aluguel no seu repositorio de fontes no Github com o nome de nuclea-aula05.sol
+* Fazer deploy do contrato de aluguel na rede de teste Sepolia
+* Realizar 2 pagamentos de aluguel
+* Reajustar o aluguel em 7%
+* Fazer dois pagamentos com o aluguel reajustado
+* Voltar no fonte do contrato no seu repositório e adicionar um comentário com o endereço dele
+*/
+
+// Endereço do contrato na rede Sepolia 0xCaeE598EB13c734740E7eE20e6c7b698fE4752fC
 pragma solidity 0.8.19;
 
 contract Aluguel {
