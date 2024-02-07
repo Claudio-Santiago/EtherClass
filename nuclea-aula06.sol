@@ -2,7 +2,7 @@
 SPDX-License-Identifier: CC-BY-4.0
 (c) Desenvolvido por Claudio Santiago + Jeff Prestes
 This work is licensed under a Creative Commons Attribution 4.0 International License.
-Contrato = 0xb97f97051b906E4e6e016d72B5298840Bfe4932D
+Contrato = 0xC841203Bf3D379079938F4CA7319a9987bdF3a6b
 
 */
 pragma solidity 0.8.19;
